@@ -21,19 +21,19 @@ msgstr ""
 #: nautilus-qdigidoc.py:74
 msgid "Sign selected file with ${DIGIDOC_NAME} Client"
 msgid_plural "Sign selected files with ${DIGIDOC_NAME} Client"
-msgstr[0] "Подписать выбранный файл с ${DIGIDOC_NAME} Client"
-msgstr[1] "Подписать выбранныйые файлы с ${DIGIDOC_NAME} Client"
-msgstr[2] "Подписать выбранныйые файлы с ${DIGIDOC_NAME} Client"
+msgstr[0] "Подпишите выбранный файл с клиентом ${DIGIDOC_NAME}"
+msgstr[1] "Подпишите выбранные файлы с клиентом ${DIGIDOC_NAME}"
+msgstr[2] "Подпишите выбранные файлы с клиентом ${DIGIDOC_NAME}"
 
 #: nautilus-qdigidoc.py:77
 msgid "Sign digitally"
-msgstr "Подписать дигитально"
+msgstr "Подпишите дигитально"
 
 msgid "Encrypt selected file with ${DIGIDOC_NAME} Client"
 msgid_plural "Encrypt selected files with ${DIGIDOC_NAME} Client"
-msgstr[0] "Зашифруйте выбранный файл ${DIGIDOC_NAME} клиентом"
-msgstr[1] "Зашифруйте выбранныйые файлы ${DIGIDOC_NAME} клиентом"
-msgstr[2] "Зашифруйте выбранныйые файлы ${DIGIDOC_NAME} клиентом"
+msgstr[0] "Зашифруйте выбранный файл с клиентом ${DIGIDOC_NAME}"
+msgstr[1] "Зашифруйте выбранныйые файлы с клиентом ${DIGIDOC_NAME}"
+msgstr[2] "Зашифруйте выбранныйые файлы с клиентом ${DIGIDOC_NAME}"
 
 msgid "Encrypt files"
 msgstr "Зашифруйте файлы"
